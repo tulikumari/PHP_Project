@@ -1,0 +1,145 @@
+.cdn1{   
+    font-weight: bold;
+   }
+   .usd1{
+      
+   }
+   .cdn2{   
+     padding-left: auto;
+    font-weight: bold;
+   }
+   
+   .cdn3{   
+     font-size: 24px;
+     font-weight: bold;
+   }
+   .usd2{
+    padding-left: auto;
+   }
+@media (min-width:500px) and (max-width:770px) {
+    .imgs3{    
+    height:auto;
+    max-width:100%;
+        
+   }
+}
+
+  .imgs3{
+      padding-top:10%;
+      vertical-align: middle;
+      max-width: 100%;
+  }
+@media (min-width:768px) {
+    .imgs32{
+        border-right:1px solid black;
+        //border-bottom:none;
+    
+    }
+}
+@media screen and (max-width:987px){
+    .fimg{
+        padding-top:0px;
+    }
+}
+@media screen and (max-width:890px){
+.bbord{
+    border-bottom: 1px solid black;
+    padding:15px; 
+    border-right:none;
+}
+}
+@media (max-width:985px) and (min-width:500px){
+    .bpad{
+        padding-left: 0px !important;
+}
+}
+
+@media screen and (min-width:472px){
+   .imgs2{
+    height: auto;
+    width: 380px;
+   }
+}
+@media screen and (min-width:472px){
+   .imgs1{
+    height: auto;
+    width: 380px;
+   }
+}
+
+
+.imgs1{
+    max-width: 100%;
+}
+.imgs2{
+    max-width: 100%;
+}
+   .bod1{
+    border-top:1px solid black;
+    width: 80%;
+   }
+   
+   .cont{
+       padding: 20px;
+   }
+   .position {
+    position: relative;
+   }
+
+   .im5{   
+    position: absolute;
+    left:5%;
+    top: 15%;
+   }
+.img-thumbnail {
+    display: block !important;
+}
+.cut{
+    text-decoration: line-through;
+    color: #737373;
+}
+.txtimg{
+    font-size: 32px;
+}
+.txtimg2{
+padding-top:10px;
+}
+.txtfont{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 34px;
+}
+.cdn1.text-left{
+   
+}
+@media screen and (max-width:991px){
+    .txtfont {
+        font-size: 23px;
+        font-weight: 500;
+        line-height: 29px;
+    }
+}
+
+.usd1.text-left{
+   
+}
+.cdn2.text-left{
+   
+}
+.usd2.text-left{
+   
+}
+.row-lg-2.row-sm-6.text-left{
+    
+}
+.cdn3.text-left{
+    
+}
+.usd3.text-left{
+    
+}
+.para{
+    
+}
+.r_tg{ padding-top: 12px; }
+.b_tg{ padding-top: 32px; padding-bottom: 15px; }
